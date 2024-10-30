@@ -18,7 +18,7 @@ URL: https://stellarburgers.nomoreparties.site/
 1. Clone the repository:  
    *git clone https://github.com/artyomkravts/FinalProject1-UnitTests.git*
 2. Navigate to the project folder:  
-   *cd <project folder name>*
+   *cd 'project folder name'*
 3. Build the project:  
    *mvn clean install*
 4. Run the tests:  
